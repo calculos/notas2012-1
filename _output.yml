@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  number_sections: false
+  css: css/style.css
+  config:
+    toc:
+      collapse: chapter
+      before: |
+        <li><a href="./">A Cálculo diferencial e integral I</a></li>
+      after: |
+        <li><a href="https://pages.github.com/" target="blank">Publicado con GitHubPages</a></li>
+    sharing: false
+    fontsettings:
+      theme: sepia
+  includes:
+    after_body: disqus.html
