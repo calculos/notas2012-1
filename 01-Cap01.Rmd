@@ -10,8 +10,8 @@ Son los números que más usamos (pero hay más).
 ## Clase 01 (Ejemplo)
 
 
-```{r echo = FALSE}
-knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw")
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw?rel=0")
 ```
 
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
