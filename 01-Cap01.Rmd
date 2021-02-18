@@ -7,8 +7,6 @@ title: Capítulo 1
 Son los números que más usamos (pero hay más).
 
 
----
-
 ## Clase 01 (Ejemplo)
 
 
@@ -22,8 +20,8 @@ knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw")
 knitr::include_graphics('archivos/oagj/02.pdf')
 ```
 
+<br/>
 
----
 
 ## Ayudantía 01 (Ejemplo)
 
@@ -32,10 +30,10 @@ knitr::include_graphics('archivos/oagj/02.pdf')
 knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0")
 ```
 
-$~$
+<br/>
 
 ```{r echo= FALSE, out.width="100%", out.height=800}
 knitr::include_graphics('archivos/asg/02.pdf')
 ```
 
-$~$
+<br/>
