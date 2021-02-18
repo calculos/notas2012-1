@@ -26,8 +26,8 @@ knitr::include_graphics('archivos/oagj/02.pdf')
 ## Ayudantía 01 (Ejemplo)
 
 
-```{r echo = FALSE}
-knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0")
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0?rel=0")
 ```
 
 <br/>
