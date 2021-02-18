@@ -16,7 +16,7 @@ Son los números que más usamos (pero hay más).
 knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw")
 ```
 
-$~$ <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
 
 ```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
 knitr::include_graphics('archivos/oagj/02.pdf')
@@ -37,3 +37,5 @@ $~$
 ```{r echo= FALSE, out.width="100%", out.height=800}
 knitr::include_graphics('archivos/asg/02.pdf')
 ```
+
+$~$
