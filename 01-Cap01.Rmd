@@ -27,7 +27,7 @@ knitr::include_graphics('archivos/oagj/02.pdf')
 
 
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0?rel=0")
+video("https://youtu.be/zznckkZZGA0")
 ```
 
 <br/>
