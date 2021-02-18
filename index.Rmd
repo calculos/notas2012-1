@@ -17,15 +17,6 @@ options(
 )
 ```
 
-```{r echo=FALSE}
-library(stringi) # Para usar stri_sub
-video <- function(x){
-          y <- stri_sub(x,-10,-1)
-          z <- paste0("https://www.youtube.com/embed/", y, "?rel=0")
-          knitr::include_url(z)
-}
-```
-
 
 # ¿Cómo funciona este sitio? {-}
 
