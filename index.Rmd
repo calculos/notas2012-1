@@ -1,28 +1,26 @@
 --- 
 title: "Cálculo diferencial e integral I"
-author: "ASG/OAGJ"
-date: "`r Sys.Date()`"
+author: "OAGJ/ASG"
 colorlinks: yes
-lot: yes
-lof: yes
+#lot: yes #list of tables
+#lof: yes #list of figures
 site: bookdown::bookdown_site
 description: "Notas del curso de Cálculo diferencial e integral impartido por OAGJ y ASG en la Facultad de Ciencias-UNAM durante el semestre 2021-2."
 graphics: yes
 favicon: images/calculo1.ico
-#cover-image: images/cover.jpg
+cover-image: images/fciencias.jpg
 ---
 
 ```{r setup, include=FALSE}
 options(
   htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 4
 )
-
-# install the packages needed by this book; you fill out c(), e.g. c('ggplot2', 'dplyr')
-lapply(c('xfun'), function(pkg) {
-  if (system.file(package = pkg) == '') install.packages(pkg)
-})
 ```
 
-# Prefacio {-}
+# ¿Cómo funciona este sitio? {-}
 
-Primer intento
+ - En cada sección encontrarán el video y el pdf de la sesión correspondiente.
+
+ - También, pueden dejar sus dudas y comentarios en la sección destinada para ello. Les pedimos _firmar_ con su nombre para dar respuesta a ellos.
+
+ - Esperamos que los materiales les sean útiles a lo largo del curso.

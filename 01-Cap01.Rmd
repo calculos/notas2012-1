@@ -1,0 +1,35 @@
+---
+title: Capítulo 1
+---
+
+# Capítulo 1: Números reales {-}
+
+Son los números que más usamos (pero hay más).
+
+
+---
+
+## Clase 01 (Ejemplo)
+
+```{r echo= FALSE, out.width="100%", eval = knitr::is_html_output(), out.height=500}
+knitr::include_graphics('archivos/oagj/02.pdf')
+```
+
+
+```{r echo = FALSE}
+knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw")
+```
+
+
+---
+
+## Ejemplo 01
+
+```{r echo= FALSE, out.width="100%", eval = knitr::is_html_output(), out.height=500}
+knitr::include_graphics('archivos/asg/02.pdf')
+```
+
+
+```{r echo = FALSE}
+knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0")
+```

@@ -1,13 +1,13 @@
 book_filename: calculo
 clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
-language:
-  label:
-    fig: "FIGURE "
-    tab: "TABLE "
-  ui:
-    edit: "Edit"
-    chapter_name: ""
+#language:
+#  label:
+#    fig: "FIGURE "
+#    tab: "TABLE "
+#  ui:
+#    edit: "Edit"
+#    chapter_name: ""
 output_dir: "docs"
 # Agregar esto para tener la salida correcta
 # ver https://bookdown.org/yihui/bookdown/github.html para más detalles

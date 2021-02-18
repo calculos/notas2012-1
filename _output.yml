@@ -1,13 +1,15 @@
 bookdown::gitbook:
+  split_by: section
   number_sections: false
   css: css/style.css
   config:
     toc:
-      collapse: chapter
+#      collapse: section
       before: |
-        <li><a href="./">A Cálculo diferencial e integral I</a></li>
-      after: |
-        <li><a href="https://pages.github.com/" target="blank">Publicado con GitHubPages</a></li>
+        <li><a href="https://calculo1.github.io/2021-2/" target="blank">Cálculo diferencial e integral I</a></li>
+#        <li><a href="./">A Cálculo diferencial e integral I</a></li>
+#      after: |
+#        <li><a href="https://calculo1.github.io/2021-2/" target="blank">Cálculo diferencial e integral I</a></li>        
     sharing: false
     fontsettings:
       theme: sepia
