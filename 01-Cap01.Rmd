@@ -11,25 +11,27 @@ Son los números que más usamos (pero hay más).
 
 ## Clase 01 (Ejemplo)
 
-```{r echo= FALSE, out.width="100%", eval = knitr::is_html_output(), out.height=500}
-knitr::include_graphics('archivos/oagj/02.pdf')
-```
-
 
 ```{r echo = FALSE}
 knitr::include_url("https://www.youtube.com/embed/poKHBwzinSw")
 ```
 
+$~$
+
+```{r echo= FALSE, out.width="100%", out.height=500}
+knitr::include_graphics('archivos/oagj/02.pdf')
+```
+
 
 ---
 
-## Ejemplo 01
-
-```{r echo= FALSE, out.width="100%", eval = knitr::is_html_output(), out.height=500}
-knitr::include_graphics('archivos/asg/02.pdf')
-```
+## Ayudantía 01 (Ejemplo)
 
 
 ```{r echo = FALSE}
 knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0")
+```
+
+```{r echo= FALSE, out.width="100%", out.height=800}
+knitr::include_graphics('archivos/asg/02.pdf')
 ```
