@@ -14,7 +14,7 @@ Aquí aparecerá el video explicativo del funcionamiento del curso.
 
 ## Clase 01
 
-Aquí aparecerán tanto el video como las notas de dichs clase.
+Aquí aparecerán tanto el video como las notas de dicha clase.
 
 <!--  
 ```{r echo = FALSE, out.width="100%"}
