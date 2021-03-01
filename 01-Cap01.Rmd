@@ -4,12 +4,19 @@ title: Capítulo 1
 
 # Capítulo 1: Números reales {-}
 
-Son los números que más usamos (pero hay más).
+En este capítulo estudiaremos algunas de las propiedades del conjunto de números reales. 
 
 
-## Clase 01 (Ejemplo)
+## Primera sesión en vivo
+
+Aquí aparecerá el video explicativo del funcionamiento del curso.
 
 
+## Clase 01
+
+Aquí aparecerán tanto el video como las notas de dichs clase.
+
+<!--  
 ```{r echo = FALSE, out.width="100%"}
 knitr::include_url("https://www.youtube.com/embed/wtMgXJn5qzQ?rel=0")
 ```
@@ -21,34 +28,8 @@ knitr::include_graphics('archivos/oagj/03.pdf')
 ```
 
 <br/>
+-->
 
-## Clase 02 (Propiedades de Campo)
+## Clase 02
 
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/wtMgXJn5qzQ?rel=0")
-```
-  
-<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
-
-```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
-knitr::include_graphics('archivos/oagj/03.pdf')
-```
-
-<br/>
-
-
-## Ayudantía 01 (Ejemplo)
-
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/zznckkZZGA0?rel=0")
-```
-
-<br/>
-
-```{r echo= FALSE, out.width="100%", out.height=800}
-knitr::include_graphics('archivos/asg/02.pdf')
-```
-
-<br/>
+Aquí aparecerán tanto el video como las notas de la segunda sesión.
