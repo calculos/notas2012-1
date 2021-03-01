@@ -28,6 +28,7 @@ knitr::include_graphics('archivos/oagj/03.pdf')
 ```
 
 <br/>
+
 -->
 
 ## Clase 02
