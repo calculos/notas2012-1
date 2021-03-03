@@ -7,18 +7,18 @@ title: Capítulo 1
 En este capítulo estudiaremos algunas de las propiedades del conjunto de números reales. 
 
 
-## Primera sesión en vivo
+<!--## Primera sesión en vivo
 
-Aquí aparecerá el video explicativo del funcionamiento del curso.
+Aquí aparecerá el video explicativo del funcionamiento del curso.-->
 
 
 ## Clase 01
 
-Aquí aparecerán tanto el video como las notas de dicha clase.
+<!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 
   
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/Idkn6sgftE8?rel=0")
+knitr::include_url("https://www.youtube.com/embed/NbYgxxHfEu8?rel=0")
 ```
   
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
