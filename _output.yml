@@ -12,6 +12,6 @@ bookdown::gitbook:
 #        <li><a href="https://calculo1.github.io/2021-2/" target="blank">Cálculo diferencial e integral I</a></li>        
     sharing: false
     fontsettings:
-      theme: sepia
+      theme: night
   includes:
     after_body: disqus.html
