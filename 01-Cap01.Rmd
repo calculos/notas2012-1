@@ -25,7 +25,7 @@ knitr::include_url("https://www.youtube.com/embed/NbYgxxHfEu8?rel=0")
 
 
 ```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
-knitr::include_graphics('archivos/oagj/C1.pdf')
+knitr::include_graphics("archivos/oagj/C1.pdf")
 ```
 
 <br/>
@@ -44,7 +44,7 @@ knitr::include_url("https://www.youtube.com/embed/POxdQDFyl-U?rel=0")
 
 
 ```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
-knitr::include_graphics('archivos/oagj/C2.pdf')
+knitr::include_graphics("archivos/oagj/C2.pdf")
 ```
 
 <br/>
