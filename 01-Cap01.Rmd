@@ -30,7 +30,7 @@ knitr::include_graphics("archivos/oagj/C1.pdf")
 
 <br/>
 
-Si el enlace anterior no funciona, se puede descargar el pdf [AQUÍ]("archivos/oagj/C1.pdf")
+Si el enlace anterior no funciona, se puede descargar el pdf [AQUÍ](archivos/oagj/C1.pdf).
 
 
 ## Clase 02
