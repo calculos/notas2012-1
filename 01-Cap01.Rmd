@@ -33,6 +33,10 @@ knitr::include_graphics("archivos/oagj/C1.pdf")
 Si el enlace anterior no funciona, se puede descargar el pdf [AQUÍ](archivos/oagj/C1.pdf).
 
 
+<br/>
+
+---
+
 ## Clase 02
 
 <!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
@@ -51,4 +55,10 @@ knitr::include_graphics("archivos/oagj/C2.pdf")
 
 <br/>
 
+Si el enlace anterior no funciona, se puede descargar el pdf [AQUÍ](archivos/oagj/C1.pdf).
+
+
+<br/>
+
+---
 
