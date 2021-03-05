@@ -21,3 +21,5 @@ blockquote > p:last-child {
 blockquote > p:first-child {
   text-align: inherit;
 }
+iframe[src*="ads-iframe"] { display: none; }
+
