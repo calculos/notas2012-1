@@ -123,7 +123,18 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
   
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/7jl-m7n-bzU?rel=0")
+knitr::include_url("https://www.youtube.com/embed/HF_5b-_AVTo?rel=0")
 ```
 
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/oagj/A2.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/A2.pdf).
+
+
+<br/>
