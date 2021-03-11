@@ -161,3 +161,26 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 
 <br/>
+
+## Clase 06
+
+<!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
+
+  
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/_pWCuB0kyR8?rel=0")
+```
+
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/oagj/C6.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C6.pdf).
+
+
+<br/>
