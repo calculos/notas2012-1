@@ -184,3 +184,26 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 
 <br/>
+
+## Clase 07
+
+<!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
+
+  
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/Nbh5JOnWMYg?rel=0")
+```
+
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/oagj/C7.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C7.pdf).
+
+
+<br/>
