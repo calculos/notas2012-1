@@ -207,3 +207,38 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 
 <br/>
+
+## Contenido extra 01: Resultados útiles adicionales
+
+<!-- en esta sesión no hay vídeo -->
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/asg/C1(2021-2)-ResultadosImportantes.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C1(2021-2)-ResultadosImportantes.pdf).
+
+
+<br/>
+
+
+## Contenido extra 02: Notación sigma
+
+<!-- en esta sesión no hay vídeo -->
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/asg/C1(2021-2)-NotacionSigma.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C1(2021-2)-NotacionSigma.pdf).
+
+
+<br/>
