@@ -206,9 +206,7 @@ knitr::include_graphics("archivos/oagj/C7.pdf")
 Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C7.pdf).
 
 
-<br/>
-
-
+</br>
 
 ## Contenido extra 01: Resultados útiles adicionales
 
@@ -220,14 +218,12 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 knitr::include_graphics("archivos/asg/C1(2021-2)-ResultadosImportantes.pdf")
 ```
 
-<br/>
+</br>
 
 Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C1(2021-2)-ResultadosImportantes.pdf).
 
 
-<br/>
-
-
+</br>
 
 
 ## Contenido extra 02: Notación sigma
