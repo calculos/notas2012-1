@@ -4,6 +4,7 @@ bookdown::gitbook:
   css: css/style.css
   config:
     toc:
+      scroll_highlight: yes
 #      collapse: section
       before: |
         <li><a href="https://calculo1.github.io/2021-2/" target="blank">Cálculo I</a></li>
