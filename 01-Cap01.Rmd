@@ -83,7 +83,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 <br/>
 
-## Ayudantía 01
+## Ayudantía 01 {#ayudantia01}
 
 <!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
 
@@ -117,7 +117,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 <br/>
 
-## Ayudantía 02
+## Ayudantía 02 {#ayudantia02}
 
 <!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
 
@@ -271,7 +271,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C
 
 
 
-## Ayudantía 04
+## Ayudantía 04 {#ayudantia04}
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 

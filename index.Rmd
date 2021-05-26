@@ -1,13 +1,13 @@
 --- 
 title: "Cálculo diferencial e integral I"
-author: "OAGJ/ASG"
+author: "OAGJ/ASG/JAPT/CDVM"
 colorlinks: yes
 #lot: yes #list of tables
 #lof: yes #list of figures
 site: bookdown::bookdown_site
 description: "Notas del curso de Cálculo diferencial e integral impartido por OAGJ y ASG en la Facultad de Ciencias-UNAM durante el semestre 2021-2."
 graphics: yes
-favicon: images/calculo1.ico
+favicon: images/cdi1.ico
 # cover-image: images/fciencias.jpg # para epub
 ---
 
