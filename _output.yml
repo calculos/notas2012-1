@@ -4,6 +4,7 @@ bookdown::gitbook:
   css: css/style.css
   config:
     toc:
+      collapse: null
       scroll_highlight: yes
 #      collapse: section
       before: |

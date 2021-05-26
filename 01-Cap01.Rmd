@@ -246,7 +246,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C
 
 
 
-## Ayudantía 03
+## Ayudantía 03 {#ayudantia03}
 
 <!--Aquí aparecerán tanto el video como las notas de la segunda sesión.-->
 
