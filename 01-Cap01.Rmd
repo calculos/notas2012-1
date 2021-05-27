@@ -309,7 +309,7 @@ En este capítulo estudiaremos el concepto de función real de variable real y o
 
   
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://youtu.be/embed/AuXThv5Lvf4?rel=0")
+knitr::include_url("https://www.youtube.com/embed/AuXThv5Lvf4?rel=0")
 ```
   
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
