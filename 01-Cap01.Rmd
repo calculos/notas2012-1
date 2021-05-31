@@ -352,11 +352,9 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 ## Ayudantía 05 {#ayudantia05}
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
-
-
-<!-- ```{r echo = FALSE, out.width="100%"} -->
-<!-- knitr::include_url("https://www.youtube.com/embed/Iy5jdltQfUQ?rel=0") -->
-<!-- ``` -->
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/bp0yljm3iD0?rel=0")
+```
 
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
 
