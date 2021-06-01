@@ -371,7 +371,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C
 <br/>
 
 
-## Clase 10
+## Ayudantía 06 {#ayudantia06}
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 
@@ -384,12 +384,12 @@ knitr::include_url("https://www.youtube.com/embed/6RiOIgTTTIQ?rel=0")
 
 
 ```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
-knitr::include_graphics("archivos/oagj/C10.pdf")
+knitr::include_graphics("archivos/oagj/A06.pdf")
 ```
 
 <br/>
 
-Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C10.pdf).
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/A06.pdf).
 
 
 <br/>
