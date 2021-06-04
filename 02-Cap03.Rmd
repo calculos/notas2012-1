@@ -1,0 +1,30 @@
+---
+title: Capítulo 3
+---
+
+# Capítulo 3: Axioma del Supremo {-}
+
+En este capítulo estudiaremos el axioma del supremo y algunas implicaciones de este.
+
+
+## Clase 10
+
+<!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
+
+  
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/kEGpAugPnBw?rel=0")
+```
+<br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/oagj/C10.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C10.pdf).
+
+
+<br/>
