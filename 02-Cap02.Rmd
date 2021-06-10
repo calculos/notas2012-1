@@ -120,7 +120,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C
 <br/>
 
 
-## Ejercicios de práctica de funciones {#practica-funciones}
+## Ejercicios de práctica {#practica-funciones}
 
 <br/> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
 
