@@ -1,6 +1,3 @@
----
-title: Capítulo 2
----
 
 # Capítulo 2: Funciones {-}
 
