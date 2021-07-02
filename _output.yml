@@ -16,4 +16,4 @@ bookdown::gitbook:
     fontsettings:
       theme: night
   includes:
-    after_body: disqus.html
+    after_body: comments.html
