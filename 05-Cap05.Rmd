@@ -72,7 +72,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/6f8qKFk9b_k?rel=0")
+knitr::include_url("https://www.youtube.com/embed/a2EartyLE_s?rel=0")
 ```
 
 </br> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
