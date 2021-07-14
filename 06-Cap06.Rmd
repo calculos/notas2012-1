@@ -24,7 +24,7 @@ knitr::include_graphics("archivos/oagj/C23.pdf")
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/NxGvL_hpYDQ?rel=0")
+knitr::include_url("https://www.youtube.com/embed/AmL1BVwU41k?rel=0")
 ```
 
 </br> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
