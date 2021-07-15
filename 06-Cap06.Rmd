@@ -59,6 +59,8 @@ knitr::include_graphics("archivos/oagj/C25.pdf")
 
 Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C25.pdf).
 
+<br/>
+
 
 <br/>
 
