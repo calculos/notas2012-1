@@ -1,5 +1,5 @@
 
-# Capítulo 5: Continuidad {-}
+# Capítulo 6: Continuidad {-}
 
 En este capítulo estudiaremos el concepto de continuidad para funciones reales de una variable real. 
 
@@ -60,6 +60,25 @@ knitr::include_graphics("archivos/oagj/C25.pdf")
 Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/C25.pdf).
 
 <br/>
+
+
+## Ayudantía 16 {#ayudantia16}
+
+<!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
+```{r echo = FALSE, out.width="100%"}
+knitr::include_url("https://www.youtube.com/embed/88mTKpW7GFo?rel=0")
+```
+
+</br> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/asg/C1(2021-2)-Ej16.pdf")
+```
+
+</br>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/asg/C1(2021-2)-Ej16.pdf).
 
 
 <br/>
