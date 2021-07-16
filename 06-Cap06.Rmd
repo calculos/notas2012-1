@@ -66,7 +66,7 @@ Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/oagj/
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/88mTKpW7GFo?rel=0")
+knitr::include_url("https://www.youtube.com/embed/GIM_NVkRkFM?rel=0")
 ```
 
 </br> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
