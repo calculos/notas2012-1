@@ -1,5 +1,5 @@
 
-# Capítulo 6: Derivada {-}
+# Capítulo 7: Derivada {-}
 
 En este capítulo estudiaremos el concepto de derivada de una función en un punto de su dominio.
 
@@ -8,7 +8,7 @@ En este capítulo estudiaremos el concepto de derivada de una función en un pun
 
 <!--Aquí aparecerán tanto el video como las notas de dicha clase.-->
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_url("https://www.youtube.com/embed/pYbIwPF9UVQ?rel=0")
+knitr::include_url("https://www.youtube.com/embed/PMi3Sc99H30?rel=0")
 ```
 
 </br> <!--Esto se pone para que se genere un espacio en blanco en la salida html-->
